@@ -100,7 +100,7 @@ while True:
 
     # Win check
     if "_" not in display:
-        print("\n🎉 Congratulations! You guessed the word:", word)
+        print("\nCongratulations! You guessed the word:", word)
         break
 
     guess = input("Enter a letter: ").upper()

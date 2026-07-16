@@ -1,0 +1,7 @@
+STOCK PORTFOLIO REPORT
+-----------------------
+TSLA | Price: $250 | Quantity: 10 | Investment: $2500
+AMZN | Price: $145 | Quantity: 8 | Investment: $1160
+GOOGL | Price: $140 | Quantity: 4 | Investment: $560
+
+Total Investment = $4220
