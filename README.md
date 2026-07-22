@@ -1,4 +1,4 @@
-# Python Internship Tasks
+# Python Internship Tasks - CODEALPHA
 
 ## Overview
 This repository contains the Python programming tasks completed during my Python Internship. These projects demonstrate fundamental Python programming concepts, including file handling, automation, chatbot development, game development, and portfolio management.
